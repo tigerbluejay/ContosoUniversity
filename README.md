@@ -1,0 +1,3 @@
+# Contoso University Sample CRUD Application
+
+This project is a complete educational sample application that demonstrates the use of ASP.NET Core MVC with Entity Framework Core in a realistic university context. It covers core functionalities such as student enrollment, course assignments, department management, and instructor allocation, all while following clean architecture principles and best practices for maintainability and scalability. Designed for developers looking to understand how to build a CRUD web application with a layered architecture, this project illustrates key patterns like dependency injection, repository, and unit of work.
